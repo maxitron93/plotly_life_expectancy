@@ -10,6 +10,7 @@ df = pd.read_csv('gapminderDataFiveYear.csv')
 
 # Initialize the app
 app = dash.Dash()
+server = app.server
 
 # Create the list of years for the year drop-down
 year_options = []
