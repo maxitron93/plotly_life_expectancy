@@ -1,6 +1,6 @@
 # Life expectancy visualization built with python, plotly and dash
 ## Interactive chart here: [https://plotly-life-expectancy.herokuapp.com/](https://plotly-life-expectancy.herokuapp.com/)
-### Follow along project from a [udemy course](https://www.udemy.com/interactive-python-dashboards-with-plotly-and-dash/)
+### Follow along project from an [online course](https://www.udemy.com/interactive-python-dashboards-with-plotly-and-dash/)
 
 #### Python programming concepts used:
 - Extensive use of external python libraries to streamline the chart development process.
